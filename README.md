@@ -1,5 +1,5 @@
-Node Starfighter - Insight 2015
--------------------------------
+Node Starfighter
+----------------
 
 Level up Your Game by Using Application Health Analytics and Test Automation
 ----------------------------------------------------------------------------
